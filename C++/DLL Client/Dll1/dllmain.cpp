@@ -136,14 +136,12 @@ static BOOL CALLBACK enumWindowCallback(HWND hWnd, LPARAM lparam) {
             windowTitle.find("oopscrasher") != string::npos ||
             windowTitle.find("Engine") != string::npos ||
             windowTitle.find("injector") != string::npos ||
-            windowTitle.find("Injecter") != string::npos ||
             windowTitle.find("Sniff") != string::npos ||
             windowTitle.find("Macro") != string::npos ||
             windowTitle.find("AutoHotkey") != string::npos ||
             windowTitle.find("매크로") != string::npos ||
             windowTitle.find("치트") != string::npos ||
             windowTitle.find("Hacker") != string::npos ||
-            windowTitle.find("리소스 모니터") != string::npos ||
             windowTitle.find("Cheat") != string::npos ||
             windowTitle.find("DDOS") != string::npos ||
             windowTitle.find("스니퍼") != string::npos ||
